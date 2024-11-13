@@ -103,8 +103,6 @@ const NewProducts = [
       description: "Sony Bravia Curve Tv"
     }
 ];
-navAnimation();
-sidebarAnimation();
 
 const showCards = () => {
   let clutter = "";
